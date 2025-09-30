@@ -1,11 +1,10 @@
-# my_house_design
+# Syana home
 
-A new Flutter project.
+My graduation project syana home is an e-commerce application for furniture shopping.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
